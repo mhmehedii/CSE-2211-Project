@@ -121,7 +121,7 @@ Make sure you have the following installed on your machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone "https://github.com/hasanmehediii/CSE-2211-Project.git"
+    git clone "https://github.com/mhmehedii/CSE-2211-Project.git"
     cd CSE-2211-Project
     ```
 
